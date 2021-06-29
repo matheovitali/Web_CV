@@ -1,32 +1,32 @@
-.col-sm-12 {
+.left-part {
     height: auto;
 }
 
-.grey {
+.right-part {
     height: auto;
     background-color: #333333;
 }
 
-#un {
+#one {
     opacity: 0.5;
 }
 
-#deux {
+#two {
     font-size: x-large;
     opacity: 0.9;
 }
 
-#trois {
+#three {
     font-size: x-large;
     text-align: justify;
 }
 
-#quatre {
+#four {
     text-align: start;
     opacity: 0.7;
 }
 
-#cinq {
+#five {
     font-size: x-large;
 }
 
@@ -69,24 +69,18 @@
     font-size: 1.5REM
 }
 
-.Diplômes {
+.purple {
     font-size: 1.7REM;
     color: #e60069;
 }
 
-.Langues {
+.grey {
     font-size: 1.8REM;
     color: #aaaaaa;
 }
 
 .above_medium_font_size {
     font-size:1.5REM
-}
-
-.Augustin {
-    display: inline;
-    font-size:1.5REM;
-    color: #e60069;
 }
 
 .medium_font_size {
